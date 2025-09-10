@@ -2,10 +2,36 @@ PROJETO - JAVA
 
 Esse projeto consiste basicamente em desenvolver um sistema de gerenciamento de tarefas utilizando conceitos de POO e CRUD com armazenamento em memória através de uma ArrayList.
 
-Capacidades:
+#FUNCIONALIDADES DO PROGRAMA
+
 -Cadastrar tarefas
 -Visualizar tarefas
 -Editar tarefas
 -Excluir tarefas
 -Marcar tarefas
 
+#ORGANIZAÇÃO DO PROJETO
+
+O projeto sera dividio em tres classes responsaveis por realizar as operações necessarias para o funcionamento correto do programa.
+
+#Classe Tarefa 
+
+-Id 
+-titulo 
+-descrição 
+-completa 
+-dataAgora
+
+#Classe TarefaServiço
+
+-Criar tarefas
+-listar tarefas
+-atualizar tarefas
+-remover tarefas 
+-tera um contador de IDs automáticos para identificar cada tarefa
+
+#Classe Principal(CLI)
+
+-Exibe menu interativo no console 
+-integra os métodos de serviço 
+-permite interação do usuário para gerenciar tarefas
