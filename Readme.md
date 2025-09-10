@@ -1,4 +1,4 @@
-PROJETO - JAVA
+#PROJETO - JAVA
 
 Esse projeto consiste basicamente em desenvolver um sistema de gerenciamento de tarefas utilizando conceitos de POO e CRUD com armazenamento em memória através de uma ArrayList.
 
