@@ -17,21 +17,21 @@ O projeto sera dividio em tres classes responsaveis por realizar as operações 
 #Classe Tarefa 
 
 -Id 
--titulo 
--descrição 
--completa 
--dataAgora
+-Titulo 
+-Descrição 
+-Completa 
+-DataAgora
 
 #Classe TarefaServiço
 
 -Criar tarefas
--listar tarefas
--atualizar tarefas
--remover tarefas 
--tera um contador de IDs automáticos para identificar cada tarefa
+-Listar tarefas
+-Atualizar tarefas
+-Remover tarefas 
+-Contador de IDs automáticos para identificar cada tarefa
 
 #Classe Principal(CLI)
 
 -Exibe menu interativo no console 
--integra os métodos de serviço 
--permite interação do usuário para gerenciar tarefas
+-Integra os métodos de serviço 
+-Permite interação do usuário para gerenciar tarefas
