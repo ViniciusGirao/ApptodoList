@@ -12,7 +12,7 @@ Esse projeto consiste basicamente em desenvolver um sistema de gerenciamento de 
 
 #ORGANIZAÇÃO DO PROJETO
 
-O projeto sera dividio em tres classes responsaveis por realizar as operações necessarias para o funcionamento correto do programa.
+O projeto sera dividido em três classes responsáveis por realizar as operações necessárias para o funcionamento correto do programa.
 
 #Classe Tarefa 
 
